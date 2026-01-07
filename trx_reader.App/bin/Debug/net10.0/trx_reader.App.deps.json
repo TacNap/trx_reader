@@ -7,30 +7,8 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "trx_reader.App/1.0.0": {
-        "dependencies": {
-          "Anthropic": "12.1.0"
-        },
         "runtime": {
           "trx_reader.App.dll": {}
-        }
-      },
-      "Anthropic/12.1.0": {
-        "dependencies": {
-          "Microsoft.Extensions.AI.Abstractions": "10.1.1"
-        },
-        "runtime": {
-          "lib/net9.0/Anthropic.dll": {
-            "assemblyVersion": "12.1.0.0",
-            "fileVersion": "12.1.0.0"
-          }
-        }
-      },
-      "Microsoft.Extensions.AI.Abstractions/10.1.1": {
-        "runtime": {
-          "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll": {
-            "assemblyVersion": "10.1.0.0",
-            "fileVersion": "10.100.125.61202"
-          }
         }
       }
     }
@@ -40,20 +18,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Anthropic/12.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Y5sXxdtEgWn3HHUGiJLxeJ2TgAaFroBYoLz8BR2jMeizuq4OSn/jTSSnJVpKrKqM+fWhRGV8wLsZs3K+A4Cl/w==",
-      "path": "anthropic/12.1.0",
-      "hashPath": "anthropic.12.1.0.nupkg.sha512"
-    },
-    "Microsoft.Extensions.AI.Abstractions/10.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-cgj8iHv4JwUpcPANZ0oLILz146Y1Oa+l280b1c1a3DjwZflH9nmYcrX952YUuqftz2sheAC2TPCGcEa6unKQgQ==",
-      "path": "microsoft.extensions.ai.abstractions/10.1.1",
-      "hashPath": "microsoft.extensions.ai.abstractions.10.1.1.nupkg.sha512"
     }
   }
 }

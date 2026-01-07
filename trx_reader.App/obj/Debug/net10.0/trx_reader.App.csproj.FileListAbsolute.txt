@@ -3,15 +3,11 @@
 /home/little/Repositories/trx_reader/trx_reader.App/bin/Debug/net10.0/trx_reader.App.runtimeconfig.json
 /home/little/Repositories/trx_reader/trx_reader.App/bin/Debug/net10.0/trx_reader.App.dll
 /home/little/Repositories/trx_reader/trx_reader.App/bin/Debug/net10.0/trx_reader.App.pdb
-/home/little/Repositories/trx_reader/trx_reader.App/bin/Debug/net10.0/Anthropic.dll
-/home/little/Repositories/trx_reader/trx_reader.App/bin/Debug/net10.0/Microsoft.Extensions.AI.Abstractions.dll
-/home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.csproj.AssemblyReference.cache
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.GeneratedMSBuildEditorConfig.editorconfig
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.AssemblyInfoInputs.cache
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.AssemblyInfo.cs
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.csproj.CoreCompileInputs.cache
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.sourcelink.json
-/home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_read.A6022AA4.Up2Date
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.dll
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/refint/trx_reader.App.dll
 /home/little/Repositories/trx_reader/trx_reader.App/obj/Debug/net10.0/trx_reader.App.pdb

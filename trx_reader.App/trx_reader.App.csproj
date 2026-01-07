@@ -7,8 +7,5 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Anthropic" Version="12.1.0" />
-  </ItemGroup>
 
 </Project>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trx_reader.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03bd3f9f4268f3b35843095ef6e7782ea547f4f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2fcf127f6a5965a918c211f7c6df251b4049c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("trx_reader.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trx_reader.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
