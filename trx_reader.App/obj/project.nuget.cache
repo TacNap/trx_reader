@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4LXwSwxouX8=",
+  "success": true,
+  "projectFilePath": "/home/little/Repositories/trx_reader/trx_reader.App/trx_reader.App.csproj",
+  "expectedPackageFiles": [
+    "/home/little/.nuget/packages/anthropic/12.1.0/anthropic.12.1.0.nupkg.sha512",
+    "/home/little/.nuget/packages/microsoft.extensions.ai.abstractions/10.1.1/microsoft.extensions.ai.abstractions.10.1.1.nupkg.sha512",
+    "/home/little/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
